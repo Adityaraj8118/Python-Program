@@ -1,0 +1,9 @@
+# Adding two numbers
+num1 = 5
+num2 = 3
+
+# Sum of the numbers
+result = num1 + num2
+
+# Display the result
+print("The sum is:", result)
