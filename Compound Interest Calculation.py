@@ -6,3 +6,4 @@ T = 2     # Time in years
 n = 4     # Quarterly compounding
 CI = compound_interest(P, R, T, n)
 print(f"Compound Interest for {T} years: {CI:.2f}")
+print("hello")
