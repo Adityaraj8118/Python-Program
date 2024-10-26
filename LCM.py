@@ -8,3 +8,4 @@ c = int(input("Enter third number: "))
 
 lcm_val = lcm(a, b, c)
 print(f"The LCM of {a}, {b} and {c} is {lcm_val}")
+ 
